@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@1,800&display=swap');
+
+* {
+    border: 1px solid black;
+}
+
+.row {
+    display: flex;
+    height: fit-content;
+    width: fit-content;
+}
+
+.col {
+    height: 2em;
+    width: 2em;
+}
+
+.hoverEffect {
+    background-color: black;
+    height: 2em;
+    width: 2em;
+}
+
+#container {
+    margin: auto;
+    height: fit-content;
+    width: fit-content;
+}
+
+.customRow {
+    display: flex;
+    height: fit-content;
+    width: fit-content;
+}
+
+.customCol {
+    height: 2em;
+    width: 2em;
+}
+
+.hoverEffect {
+    background-color: black;
+    height: 2em;
+    width: 2em;
+}
+
+#customContainer {
+    margin: auto;
+    height: fit-content;
+    width: fit-content;
+}
+
+#title {
+    display: flex;
+    justify-content: center;
+    font-family: 'Alegreya', serif;
+    font-size: 2em;
+}
